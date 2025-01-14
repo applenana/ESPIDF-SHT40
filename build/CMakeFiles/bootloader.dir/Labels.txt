@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+D:/ESPIDF/sht40/build/CMakeFiles/bootloader
+D:/ESPIDF/sht40/build/CMakeFiles/bootloader.rule
+D:/ESPIDF/sht40/build/CMakeFiles/bootloader-complete.rule
+D:/ESPIDF/sht40/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+D:/ESPIDF/sht40/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+D:/ESPIDF/sht40/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+D:/ESPIDF/sht40/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+D:/ESPIDF/sht40/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+D:/ESPIDF/sht40/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+D:/ESPIDF/sht40/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
